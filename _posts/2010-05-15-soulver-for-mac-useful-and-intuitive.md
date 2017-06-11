@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soulver for Mac: Useful and intuitive.'
-date: '2010-05-15T13:12:00-07:00'
+date: "2010-05-15 06:12:0"
 category: link
 tags:
 - tumblr
