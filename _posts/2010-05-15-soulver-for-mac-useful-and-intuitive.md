@@ -2,7 +2,8 @@
 layout: post
 title: 'Soulver for Mac: Useful and intuitive.'
 date: '2010-05-15T13:12:00-07:00'
-categories:
+category: link
+tags:
 - tumblr
 - software
 tumblr_url: http://mburns-blog.tumblr.com/post/641568071/soulver-for-mac-useful-and-intuitive
