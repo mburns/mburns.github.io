@@ -6,12 +6,10 @@ tags:
 - tumblr
 tumblr_url: http://mburns-blog.tumblr.com/post/643317661/i-wonder-why-i-wonder-why-i-wonder-why-i
 ---
-<blockquote>&ldquo;I wonder why. I wonder why.
 
-I wonder why I wonder,
-
-I wonder why I wonder why,
-
-I wonder why I wonder!&rdquo; 
-
-&ndash; Richard Feynman</blockquote>&#8212;
+    "I wonder why. I wonder why.
+    I wonder why I wonder,
+    I wonder why I wonder why,
+    I wonder why I wonder!""
+    
+    -- Richard Feynman

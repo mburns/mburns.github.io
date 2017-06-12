@@ -1,6 +1,6 @@
 ---
 layout: post
-title: http://upload.wikimedia.org/wikipedia/commons/c/c9/Deltavs.svg
+title: Mars Moon Earth delta Vs
 date: '2011-03-13T01:25:45-08:00'
 tags:
 - tumblr

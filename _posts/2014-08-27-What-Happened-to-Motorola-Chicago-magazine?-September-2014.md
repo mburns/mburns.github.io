@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "What Happened to Motorola |
-Chicago magazine
-    |  September 2014"
+title: "What Happened to Motorola"
 tags:
 - pocket
 date:  "2014-08-27 16:58:37"

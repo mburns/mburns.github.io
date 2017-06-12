@@ -1,6 +1,6 @@
 ---
 layout: post
-title: via iimgurcom
+title: world wide space budget
 date: '2011-02-21T15:14:42-08:00'
 tags:
 - tumblr

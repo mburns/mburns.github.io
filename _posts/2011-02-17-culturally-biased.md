@@ -1,6 +1,6 @@
 ---
 layout: post
-title: via hijinksensuecom
+title: culturally biased
 date: '2011-02-17T16:40:13-08:00'
 tags:
 - tumblr

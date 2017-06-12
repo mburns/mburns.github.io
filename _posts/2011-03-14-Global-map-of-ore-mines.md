@@ -1,6 +1,6 @@
 ---
 layout: post
-title: via uploadwikimediaorg
+title: Global map of ore mines
 date: '2011-03-14T02:29:39-07:00'
 tags:
 - tumblr
