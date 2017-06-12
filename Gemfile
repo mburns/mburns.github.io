@@ -14,6 +14,7 @@ group :plugins do
   gem 'jekyll-index-pages'
   gem 'jekyll-mentions'
   gem 'jekyll-redirect-from'
+  gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
   gem 'jekyll-tagging'
   gem 'jekyll-titles-from-headings'
