@@ -5,3 +5,6 @@ google_analytics: UA-100890000-1
 footer-links:
   linkedin: maburns
   twitter: mburns
+github:
+  repo: mburns/mburns.github.io
+  branch: master
