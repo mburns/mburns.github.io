@@ -71,5 +71,5 @@ namespace :style do
   end
 
   desc 'Run all style checks'
-  task all: %i[jsonlint yamllint markdown]
+  task all: %i[yamllint markdown]
 end
