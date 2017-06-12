@@ -1,8 +1,13 @@
 theme: jekyll-theme-cayman
 name: Michael Burns
 description: DevOps Engineer in Portland, OR
+avatar: https://github.com/mburns/mburns.github.io/blob/master/images/avatar.jpg
+disqus: mburns
 google_analytics: UA-100890000-1
 footer-links:
+  email:
+  flickr:
+  googleplus: 107225813711437200584
   linkedin: maburns
   twitter: mburns
 github:
