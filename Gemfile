@@ -5,7 +5,7 @@
 
 source 'https://rubygems.org'
 
-ruby '2.3.1'
+ruby '2.3.4'
 
 group :plugins do
   gem 'jekyll-author-pages', '~> 1.0', '>= 1.0.3'
