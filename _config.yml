@@ -4,15 +4,12 @@ description: DevOps Engineer in Portland, OR
 avatar: https://raw.githubusercontent.com/mburns/mburns.github.io/master/images/avatar.jpg
 disqus: mburns
 google_analytics: UA-100890000-1
+
 footer-links:
-  email:
-  flickr:
   googleplus: 107225813711437200584
   linkedin: maburns
   twitter: mburns
-github:
-  repo: mburns/mburns.github.io
-  branch: master
+
 gems:
    - jekyll-mentions
    - jemoji
@@ -20,3 +17,17 @@ gems:
    - jekyll-seo-tag
    - jekyll-sitemap
    - jekyll-feed
+
+github:
+  repo: mburns/mburns.github.io
+  branch: master
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+
+sass:
+  style: :expanded # You might prefer to minify using :compressed
