@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frequently Asked Question: Q: Why is it written in Mono/C#? A: Because I hate freedom.
+title: "Because I hate freedom."
 date: '2010-06-11T14:30:00-07:00'
 tags:
 - tumblr
