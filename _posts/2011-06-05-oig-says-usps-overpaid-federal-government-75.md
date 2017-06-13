@@ -12,9 +12,7 @@ tumblr_url: http://mburns-blog.tumblr.com/post/6223644496/oig-says-usps-overpaid
 
 After an in-depth investigation, the OIG has concluded that an inequitable system for computing the Postal Service’s CSRS pension responsibility has caused the dramatic overpayment. 
 
-
 In 2002 it was determined that the Postal Service was on track to overfund CSRS by $78 billion, and in 2003 the USPS was overcharged $27 billion for CSRS military service credits.
-
 
 The newest overfunding debacle, if corrected, would more than offset the Postal Service’s deficit from Fiscal Year 2009 and the expected shortfalls in FY 2010 and 2011.
 

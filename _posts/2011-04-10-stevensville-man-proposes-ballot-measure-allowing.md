@@ -11,6 +11,5 @@ tumblr_url: http://mburns-blog.tumblr.com/post/4503052056/stevensville-man-propo
 
 LENA – A Stevensville man wants to change Montana’s Constitution to allow citizens, not just judges, to convene special investigative juries in their counties.
 
-
 Grand juries are special panels that hear evidence about an alleged crime and recommend whether prosecutors should file charges. Sipe called such juries “a check and balance of the government we institute.”
 

@@ -10,7 +10,5 @@ tumblr_url: http://mburns-blog.tumblr.com/post/2965445060/via-uploadwikimediaorg
 
 via <a href="http://upload.wikimedia.org/wikipedia/commons/1/13/Cincinnati.png">upload.wikimedia.org</a>
 
-
-
 How much more bureaucraticly broken can a metropolitan area be than having a state border slashed down the middle of it?
 

@@ -10,6 +10,5 @@ tumblr_url: http://mburns-blog.tumblr.com/post/26720166252/the-overthinking-pers
 
 When you experience a vague sense of inequity or deprivation but don’t have a template for whether your expectations are fair, drink.
 
-
 When you aren’t sure whether the lingering sensation that you aren’t liked enough is a rational response to unfair circumstances or is in fact symptomatic of your tendency to blame your environment for your own failure to self-actualize, drink.
 

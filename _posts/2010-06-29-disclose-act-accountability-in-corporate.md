@@ -11,6 +11,5 @@ tumblr_url: http://mburns-blog.tumblr.com/post/749087305/disclose-act-accountabi
 
 One provision gaurantees that a politician gets the lowest possible rate for a response commercial in any market that an attack ad of them is aired.
 
-
 Remember that time when we chopped up our public frequencies and gave them to private companies for pennies so they could sell invasive advertising into our homes for billions of dollars? 
 
