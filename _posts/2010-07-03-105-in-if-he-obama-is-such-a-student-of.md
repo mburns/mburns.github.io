@@ -10,6 +10,5 @@ tumblr_url: http://mburns-blog.tumblr.com/post/766927628/105-in-if-he-obama-is-s
 
 1:05 in: &ldquo;If he (Obama) is such a student of history, doesn&rsquo;t he know&hellip;&rdquo;
 
-
 It gets good.
 
