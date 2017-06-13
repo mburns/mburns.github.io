@@ -29,22 +29,22 @@ namespace :style do
 
   desc 'Markdown lint'
   task :markdown do
-    # "MD004", # Unordered list style
     # "MD007", # Unordered list indentation
+    # "MD013", # Line length
+    # "MD032", # Lists should be surrounded by blank lines
     # "MD033", # Inline HTML
-    # "MD034", # Bare URL used
     
     md_rules=[
       "MD001", # Header levels should only increment by one level at a time
       "MD002", # First header should be a top level header
       "MD003", # Header style
+      "MD004", # Unordered list style
       "MD005", # Inconsistent indentation for list items at the same level
       "MD006", # Consider starting bulleted lists at the beginning of the line
       "MD009", # Trailing spaces
       "MD010", # Hard tabs
       "MD011", # Reversed link syntax
       "MD012", # Multiple consecutive blank lines
-      "MD013", # Line length
       "MD014", # Dollar signs used before commands without showing output
       "MD018", # No space after hash on atx style header
       "MD019", # Multiple spaces after hash on atx style header
@@ -60,7 +60,7 @@ namespace :style do
       "MD029", # Ordered list item prefix
       "MD030", # Spaces after list markers
       "MD031", # Fenced code blocks should be surrounded by blank lines
-      "MD032", # Lists should be surrounded by blank lines
+      "MD034", # Bare URL used
       "MD035", # Horizontal rule style
       "MD036", # Emphasis used instead of a header
       "MD037", # Spaces inside emphasis markers
