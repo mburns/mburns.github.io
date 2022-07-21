@@ -101,7 +101,7 @@ GEM
     sass (3.4.24)
     thread_safe (0.3.6)
     trollop (2.1.2)
-    tzinfo (1.2.3)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     yamllint (0.0.9)
       trollop (~> 2)
